@@ -1,0 +1,7 @@
+[user]
+	name = Jane Guo
+	email = jaguo_mh@yahoo.com
+[color]
+	ui = true
+[push]
+	default = matching
